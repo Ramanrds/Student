@@ -9,6 +9,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * I AM WAITING
  I am still waiting
  * @author sidhu376
+ June21
+ changes
  */
 public class StudentList {
     
