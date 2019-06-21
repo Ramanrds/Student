@@ -17,6 +17,12 @@ public class Student {
     private String email;
 
     /**
+    i wil
+    keep
+    changing
+    ur 
+    contents
+    
      * Get the value of email
      *
      * @return the value of email
